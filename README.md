@@ -3,7 +3,7 @@
 - 📫 How to reach me **shahaman323@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/07/51/11/83/360_F_751118385_9A1NoDwHdGPc74vd6MQpzrBHdIsRyHPq.jpg">
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/044/448/949/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png">
 
 
 
