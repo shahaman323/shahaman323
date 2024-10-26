@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE7TrxrCS5GkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1670079462255?e=1734566400&v=beta&t=VzIZ7YAhlUhivEOVDkBBo2S4rU4e1F8d_8_6la89RVU)
-<h3 align="center">Result-oriented data engineer with over 3 years of professional experience and an IBM-certified Big Data Engineer. Well-versed in AWS cloud computing, I excel in developing robust ETL pipelines, ensuring data integrity, and optimizing performance. Proficient in Python, my skills extend to Pandas, PySpark, Flask, Fast API, Scrapy, Airflow, PostgreSQL, and AWS services (S3, Lambda, Glue, RDS, EC2). Dedicated to leveraging technology to solve complex problems and drive data-driven decision-making.</h3>
+<h3 align="center">Result-oriented data engineer with over 3 years of professional experience and an IBM-certified Big Data Engineer. Well-versed in AWS cloud computing, I excel in developing robust ETL pipelines, ensuring data integrity and optimizing performance. Proficient in Python, my skills extend to Pandas, PySpark, Flask, Fast API, Scrapy, Airflow, PostgreSQL, and AWS services (S3, Lambda, Glue, RDS, EC2). Dedicated to leveraging technology to solve complex problems and drive data-driven decision-making.</h3>
 
 - 📫 How to reach me **shahaman323@gmail.com**
 
